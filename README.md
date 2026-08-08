@@ -1,8 +1,12 @@
 # Dual-Mind World Models: A General Framework for Learning in Dynamic Wireless Networks
 
-Official implementation of **Dual-mind world models: A general framework for learning in dynamic wireless networks**.
+Official implementation of **“Dual-mind world models: A general framework for learning in dynamic wireless networks”**.
 
----
+<p align="center">
+  <span style="background-color: white; display: inline-block; padding: 10px;">
+    <img src="Figure/Algorithm.png" alt="Proposed framework" width="80%">
+  </span>
+</p>
 
 ## 1. Customized Sionna RT Environment With Dynamic Vehicles
 
@@ -25,6 +29,11 @@ The test includes:
 - calculating V2I/V2V achievable rates; and
 - converting the achievable rate into packets transmitted per timeslot.
 
+
+
+<p align="center">
+  <img src="Figure/1.png" alt="Sionna" width="80%">
+</p>
 
 ## 2. Installation
 
