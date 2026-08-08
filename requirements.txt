@@ -1,0 +1,9 @@
+# Core learning stack
+numpy>=1.24
+torch>=2.1
+tqdm>=4.66
+tensorboard>=2.14
+
+# Current NVIDIA documentation installs Sionna RT with this package.
+# Mitsuba and Dr.Jit are installed as compatible dependencies.
+sionna-rt
