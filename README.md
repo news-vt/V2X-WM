@@ -180,13 +180,7 @@ If you use this repository in your research, please cite:
 
 ## 6. License
 
-All content in this repository is released under the MIT License.
-
-```text
-MIT License
-
-Copyright (c) 2025 NEWS@VT
-```
+All content in this repository is under the [MIT license](https://opensource.org/licenses/MIT).
 
 Third-party dependencies, including Sionna RT, Mitsuba, Dr.Jit, PyTorch, and
 their associated components, remain subject to their respective licenses.
